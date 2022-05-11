@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Lenovo/Desktop/wordcount/jar/jarfile.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/wordcount/jarbuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=wordcount/src&lt;{WordCount.java[WordCount" manifestLocation="/wordcount/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=wordcount/src"/>
+        <file path="/wordcount/.classpath"/>
+        <folder path="/wordcount/output"/>
+        <file path="/wordcount/manifest"/>
+        <folder path="/wordcount/input"/>
+        <folder path="/wordcount/target"/>
+        <file path="/wordcount/.project"/>
+        <file path="/wordcount/jarbuild.jardesc"/>
+        <folder path="/wordcount/out"/>
+    </selectedElements>
+</jardesc>
